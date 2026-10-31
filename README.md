@@ -1,3 +1,5 @@
+> **Note:** This is a copy of [Code-with-Beto/swipe-menu-example](https://github.com/Code-with-Beto/swipe-menu-example), kept for AI code-review research. All credit goes to the original authors. Licensed under the original [MIT License](./LICENSE). See [UPSTREAM.md](./UPSTREAM.md) for details.
+
 # CWB Swipe Menu for React Native
 
 A focused Expo example of a display-like swipe menu inspired by the ChatGPT mobile app. Swipe right anywhere on the main surface to browse Code with Beto resources, real course lessons, and a small list of recent chats. Swipe left or tap the exposed surface to close it.
